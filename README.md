@@ -2,6 +2,8 @@
 
 ### For admin
 
+Admin would have to ask for **Store name** and **Password**
+
 1. Log into [Shopify Partners](https://partners.shopify.com/)
 2. Click on **Stores** on the sidebar.
 3. Click on **Add store**.
